@@ -1,0 +1,4 @@
+LOOI_PUI_YI jalan_gambateh looipy@gmail.com 0129334567 female 2003-02-06 py123 123
+LAI_CHEONG_KIAN 7-14_Block_A_jalan_Hang_Tuah laicheongkian2gmail.com 123587250 male 2003-08-08 lckiann 123 
+KAI random_street_123 kai123@gmail.com 114567892 male 2004-02-01 kai122 11223 ROY Jalan_Desa_Aman_5 roy@gmail.com 123811290 female 2003-02-17 roy0217 0217 
+WHITNEY_LIM_WAN_YEE 3,jalan_adda_7/11 sally@gmail.com 167984567 male 1970-08-08 wy123 1234567 
